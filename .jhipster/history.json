@@ -1,0 +1,30 @@
+{
+  "values" : [ {
+    "serviceId" : "init",
+    "timestamp" : "2022-05-20T08:33:38.004859744Z"
+  }, {
+    "serviceId" : "maven-java",
+    "timestamp" : "2022-05-20T08:33:38.030864205Z"
+  }, {
+    "serviceId" : "github-actions",
+    "timestamp" : "2022-05-20T08:33:38.048407815Z"
+  }, {
+    "serviceId" : "java-base",
+    "timestamp" : "2022-05-20T08:33:38.105128923Z"
+  }, {
+    "serviceId" : "jacoco-check-min-coverage",
+    "timestamp" : "2022-05-20T08:33:38.119504017Z"
+  }, {
+    "serviceId" : "springboot",
+    "timestamp" : "2022-05-20T08:33:38.152160403Z"
+  }, {
+    "serviceId" : "springboot-actuator",
+    "timestamp" : "2022-05-20T08:33:38.168909502Z"
+  }, {
+    "serviceId" : "sonar-java-backend",
+    "timestamp" : "2022-05-20T08:33:38.191516352Z"
+  }, {
+    "serviceId" : "springboot-webflux-netty",
+    "timestamp" : "2022-05-20T08:33:38.221049418Z"
+  } ]
+}
